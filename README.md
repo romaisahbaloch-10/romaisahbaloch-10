@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Romaisa
+
 **Educator | 🐍 Python | 🤖 Machine Learning & AI**
 
-**Currently learning **
+**Currently learning**
+
 Python
 Anaconda
 VS Code
