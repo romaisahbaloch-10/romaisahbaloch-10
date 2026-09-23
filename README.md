@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Romaisa
 
-**Educator | 🐍 Python | 🤖 Machine Learning & AI**
+**Educator | Python | Machine Learning & AI**
 
 **Currently learning**
 
