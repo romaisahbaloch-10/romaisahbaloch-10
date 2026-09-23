@@ -4,19 +4,21 @@
 
 **Currently learning**
 
-Python
-Anaconda
-VS Code
-Google Colab
-Machine Learning
-
+•	Python
+•	Anaconda
+•	VS Code
+•	Google Colab
+•	Machine Learning
 
 **Skills**
-Python basics
-Jupyter notebooks(Pandas, Numpy, Matplotlib)
-Google Colab
+
+•	Python basics
+•	Jupyter notebooks (Pandas, Numpy, Matplotlib)
+•	Google Colab
+
 
 **Projects**
+
 
 
 
