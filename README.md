@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Romaisa
+**Educator | 🐍 Python | 🤖 Machine Learning & AI**
 
-<!--
-**romaisahbaloch-10/romaisahbaloch-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently learning **
+Python
+Anaconda
+VS Code
+Google Colab
+Machine Learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+Python basics
+Jupyter notebooks(Pandas, Numpy, Matplotlib)
+Google Colab
+
+**Projects**
+
+
+
+**📫 How to reach me: romaisahbaloch@gmail.com**
+
+
